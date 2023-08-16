@@ -6,6 +6,6 @@ console.log(names[2]);
 names.unshift("عبدالله");
 names.push("ريان");
 console.log(names);
-names.shift()
-names.pop()
+names.shift();
+names.pop();
 console.log(names);
